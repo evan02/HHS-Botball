@@ -1,9 +1,10 @@
 /*	hhs_lib.c
-	Hampton High School Botball Chapter
-	11-0141
+	Hampton High School Botball Team
+	Team #0141
 	DC Region
 	
 	Adam Farabaugh - adam.farabaugh1@gmail.com
+	Evan Wilson - emwilson02@gmail.com
 	
 	Change Log:
 		May 03 2010		- project begun
@@ -88,6 +89,7 @@ void wait_a_button(){
 
 /*	Setup function so we can tell the bot which side of 
 	the table we're on
+	Used during 2011 Botball Game (symmetrical table design)
 */
 void setup_which_side(){
 	printf("Which side of the board are we on?\n     Press   LEFT   or   RIGHT\n             <--          -->\n");

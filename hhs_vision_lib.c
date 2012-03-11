@@ -1,6 +1,6 @@
 /*	hhs_vision_lib.c
-	Hampton High School Botball Chapter
-	11-0141
+	Hampton High School Botball Team
+	Team #0141
 	DC Region
 	
 	Adam Farabaugh - adam.farabaugh1@gmail.com
