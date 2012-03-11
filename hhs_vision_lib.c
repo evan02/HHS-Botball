@@ -103,7 +103,7 @@ void init_hhs_vision(){
 		system("mkdir -p /mnt/user/tmpusb");
 		system("mount /dev/sdb1 /mnt/user/tmpusb -t vfat");
 		#endif
-		printf("HHS Vision Library\nAdam Farabaugh\nVISION SYSTEM INITIALIZED");
+		printf("HHS Vision Library\nAdam Farabaugh and Evan Wilson\nVISION SYSTEM INITIALIZED");
 		_hhs_vision_initted = 1;
 	}
 }
